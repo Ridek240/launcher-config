@@ -1,0 +1,11 @@
+{
+  "games": [
+    {
+      "id": "phylacterium",
+      "name": "Phylacterium",
+      "exe": "Phylacterium.exe",
+      "manifestUrl": "https://raw.githubusercontent.com/Ridek240/phylacterium-testing/main/manifest.json",
+      "filesBaseUrl": "https://raw.githubusercontent.com/Ridek240/phylacterium-testing/main/game/"
+    }
+  ]
+}
